@@ -218,3 +218,6 @@ pip-log.txt
 *.index
 .metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources
 *.snap
+*.prefs
+.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt
+*.ini
